@@ -1,2 +1,2 @@
-# My_Weather_App
-Created with CodeSandbox
+# weather-app
+An app to display weather information a particular location, using the OpenWeatherAPI
